@@ -1,0 +1,7 @@
+pandas
+pathlib
+datetime
+apache-airflow==2.7.3
+apache-airflow-providers-microsoft-mssql==3.3.0
+SQLAlchemy<2.0
+pyodbc
